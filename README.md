@@ -1,4 +1,11 @@
-# Practice-01-Introduction-to-Colab
-Introduction to Colab.
-Open this notebook in colab by adding *"colab.research.google.com/"* to the notebook link.
-https://colab.research.google.com/github/Bar-Ilan-Intro-to-Computing/Practice-01-Introduction-to-Colab/blob/main/Practice_01_Intro_to_Colab.ipynb
+# Practice Notebooks – Introduction to Computing for Biologists
+
+To open a practice notebook in Google Colab, add:
+
+colab.research.google.com/
+
+before the GitHub notebook link.
+
+Example – opening the notebook for Practice 1:
+
+https://colab.research.google.com/github/Bar-Ilan-Intro-to-Computing/Practice-CS-to-biologies/blob/main/Practice_01_Intro_to_Colab.ipynb
