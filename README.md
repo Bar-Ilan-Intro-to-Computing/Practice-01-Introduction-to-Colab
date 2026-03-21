@@ -1,4 +1,4 @@
-# Practice Notebooks – Introduction to Computing for Biologists
+# Practice Notebooks – Introduction to Computer Science for Biologists
 
 To open a practice notebook in Google Colab, add:
 
